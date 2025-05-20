@@ -24,3 +24,15 @@ Das Programm wählt zufällig eine Zahl zwischen 1 und 100. Du wirst aufgeforder
  main
 
 Viel Spaß beim Spielen!
+
+## Autohaus Lehr Jump-Spiel
+
+Im Repository findest du außerdem ein kleines Browser-Spiel unter `index.html`.
+Steuer dein Auto mit der Leertaste und springe über Schlaglöcher, um Punkte zu
+sammeln.
+
+### Eigenes Logo einbinden
+
+Um ein individuelles Hintergrundbild zu verwenden, kopiere dein PNG-Logo in
+das Projektverzeichnis und benenne es `logo.png`. Beim Laden der Seite wird das
+Bild automatisch als Hintergrund eingeblendet.
