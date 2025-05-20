@@ -33,8 +33,16 @@ def main():
         elif guess > number:
             print("Zu hoch!")
         else:
+xo56q1-codex/erstelle-ein-einfaches-spiel-mit-anleitung
+            # The player guessed the correct number. Show how many attempts it took
+            # and wait for the user to press Enter so the window doesn't close
+            # immediately when started with a double-click.
+            print(f"Richtig! Du hast die Zahl in {attempts} Versuchen erraten.")
+            input("Drücke Enter, um das Programm zu beenden.")
+
             # The player guessed the correct number.
             print(f"Richtig! Du hast die Zahl in {attempts} Versuchen erraten.")
+main
             break
 
 

@@ -18,6 +18,5 @@ Dieses Repository enthält ein kleines Python-Programm, mit dem du eine Zahl err
 
 ## Spielablauf
 
-Das Programm wählt zufällig eine Zahl zwischen 1 und 100. Du wirst aufgefordert, eine Zahl einzugeben. Nach jedem Versuch sagt dir das Programm, ob deine Zahl zu niedrig oder zu hoch ist. Wenn du richtig geraten hast, erhältst du eine Erfolgsmeldung und die Anzahl deiner Versuche wird angezeigt.
 
 Viel Spaß beim Spielen!
