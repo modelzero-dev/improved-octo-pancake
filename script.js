@@ -61,7 +61,10 @@ function endGame() {
     clearInterval(obstacleInterval);
     clearInterval(scoreInterval);
     document.querySelectorAll('.pothole').forEach(p => p.remove());
+cy3aqe-codex/erstelle-jump-and-run-spiel-mit-auto
     alert('Autohaus Lehr - Game Over! Score: ' + score);
+
+main
     startGame();
 }
 

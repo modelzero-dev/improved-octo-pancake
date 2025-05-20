@@ -1,7 +1,10 @@
 body {
+cy3aqe-codex/erstelle-jump-and-run-spiel-mit-auto
     background: #e1f5fe url('logo.png') no-repeat center/contain;
     display: flex;
     flex-direction: column;
+
+main
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -97,9 +100,11 @@ body {
     font-size: 20px;
     font-weight: bold;
 }
+cy3aqe-codex/erstelle-jump-and-run-spiel-mit-auto
 
 #brand {
     margin-bottom: 20px;
     font-size: 28px;
     font-weight: bold;
 }
+main
